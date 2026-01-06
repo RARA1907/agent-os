@@ -1,41 +1,48 @@
 <img width="1280" height="640" alt="agent-os-og" src="https://github.com/user-attachments/assets/f70671a2-66e8-4c80-8998-d4318af55d10" />
 
-## Your system for spec-driven agentic development.
+## Spec-odaklı ajansal geliştirme için sisteminiz.
 
-[Agent OS](https://buildermethods.com/agent-os) transforms AI coding agents from confused interns into productive developers. With structured workflows that capture your standards, your stack, and the unique details of your codebase, Agent OS gives your agents the specs they need to ship quality code on the first try—not the fifth.
+[Agent OS](https://buildermethods.com/agent-os), AI kodlama ajanlarını kafası karışık stajyerlerden üretken geliştiricilere dönüştürür. Standartlarınızı, teknoloji yığınınızı ve kod tabanınızın benzersiz detaylarını yakalayan yapılandırılmış iş akışlarıyla, Agent OS ajanlarınıza beşinci denemede değil, ilk denemede kaliteli kod göndermek için ihtiyaç duydukları spesifikasyonları verir.
 
-Use it with:
+Şununla kullanın:
 
-✅ Claude Code, Cursor, or any other AI coding tool.
+✅ Claude Code, Cursor veya diğer AI kodlama araçları.
 
-✅ New products or established codebases.
+✅ Yeni ürünler veya mevcut kod tabanları.
 
-✅ Big features, small fixes, or anything in between.
+✅ Büyük özellikler, küçük düzeltmeler veya aradaki her şey.
 
-✅ Any language or framework.
-
----
-
-### Documentation & Installation
-
-Docs, installation, usage, & best practices 👉 [It's all here](https://buildermethods.com/agent-os)
+✅ Herhangi bir dil veya framework.
 
 ---
 
-### Follow updates & releases
+### Dokümantasyon ve Kurulum
 
-Read the [changelog](CHANGELOG.md)
-
-[Subscribe to be notified of major new releases of Agent OS](https://buildermethods.com/agent-os)
+Dokümanlar, kurulum, kullanım ve en iyi uygulamalar 👉 [Hepsi burada](https://buildermethods.com/agent-os)
 
 ---
 
-### Created by Brian Casel @ Builder Methods
+### Güncellemeleri ve Sürümleri Takip Edin
 
-Created by Brian Casel, the creator of [Builder Methods](https://buildermethods.com), where Brian helps professional software developers and teams build with AI.
+[Değişiklik günlüğünü](CHANGELOG.md) okuyun
 
-Get Brian's free resources on building with AI:
-- [Builder Briefing newsletter](https://buildermethods.com)
+[Agent OS'in yeni sürümlerinden haberdar olmak için abone olun](https://buildermethods.com/agent-os)
+
+---
+
+### Brian Casel @ Builder Methods Tarafından Oluşturuldu
+
+Brian Casel tarafından oluşturuldu. Brian, profesyonel yazılım geliştiricilere ve ekiplere AI ile geliştirme konusunda yardımcı olduğu [Builder Methods](https://buildermethods.com)'un yaratıcısıdır.
+
+Brian'ın AI ile geliştirme konusundaki ücretsiz kaynaklarını edinin:
+
+- [Builder Briefing bülteni](https://buildermethods.com)
 - [YouTube](https://youtube.com/@briancasel)
 
-Join [Builder Methods Pro](https://buildermethods.com/pro) for official support and connect with our community of AI-first builders:
+Resmi destek için [Builder Methods Pro](https://buildermethods.com/pro)'ya katılın ve AI-öncelikli geliştiriciler topluluğumuzla bağlantı kurun.
+
+---
+
+## 🇹🇷 Türkçe Versiyon
+
+Bu Agent OS'in Türkçeleştirilmiş versiyonudur. Orijinal repo: [buildermethods/agent-os](https://github.com/buildermethods/agent-os)

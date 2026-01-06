@@ -1,19 +1,21 @@
-# Support policy
+# Destek Politikası
 
-Agent OS is free and open source. To keep it sustainable, you can seek support in any of these ways:
+Agent OS ücretsiz ve açık kaynaktır. Sürdürülebilir olması için, aşağıdaki yollardan herhangi biriyle destek alabilirsiniz:
 
-- **[Documentation](https://buildermethods.com/agent-os):** Complete and up-to-date guides for installation, updating, and usage of Agent OS.
+- **[Dokümantasyon](https://buildermethods.com/agent-os):** Agent OS'in kurulumu, güncellenmesi ve kullanımı için eksiksiz ve güncel kılavuzlar.
 
-- **[Community Support (Free)](https://github.com/buildermethods/agent-os/discussions):** Ask & answer questions with other users in the **Q&A** category of GitHub Discussions.
+- **[Topluluk Desteği (Ücretsiz)](https://github.com/buildermethods/agent-os/discussions):** GitHub Discussions'ın **Q&A** kategorisinde diğer kullanıcılarla soru sorun ve cevap verin.
 
-- **[Official Support (Paid)](https://buildermethods.com/pro):** For guaranteed responses from Brian & team, join **Builder Methods Pro**.
-
----
-
-## Bugs
-- Post suspected bugs in the **Bugs category** of Discussions.  Maintainers may promote confirmed bugs to Issues for tracking and fixes.
+- **[Resmi Destek (Ücretli)](https://buildermethods.com/pro):** Brian ve ekibinden garantili yanıtlar için **Builder Methods Pro**'ya katılın.
 
 ---
 
-## Feature ideas
-Use the **Ideas category** of Discussions to propose and upvote new features and integration requests.
+## Hatalar
+
+- Şüphelenilen hataları Discussions'ın **Bugs kategorisinde** gönderin. Bakımcılar, onaylanmış hataları takip ve düzeltmeler için Issues'a yükseltebilir.
+
+---
+
+## Özellik Fikirleri
+
+Yeni özellikler ve entegrasyon istekleri önermek ve oy vermek için Discussions'ın **Ideas kategorisini** kullanın.
